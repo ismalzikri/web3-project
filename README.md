@@ -1,16 +1,3 @@
-# Pixel8Labs Front-end Engineer Take-home Test
-
-Thanks for your interest in working with us as a web3 front-end engineer.
-This take-home test is for us to gauge your engineering capabilities and determine
-whether we can move to the work trial phase. It's not a test per se but rather a
-way for Pixel8Labs to know more about your abilities and also for you to see if
-you would like the kind of work we do, before we spend more time together in the
-work trial.
-
-This test should not take you more than 10 hours but you are allowed to spend more
-than 10 hours within the given 2 days just in case you want to touch things up and
-submit a polished piece of work.
-
 ## Tasks
 
 Here are the requirements for the take-home project
